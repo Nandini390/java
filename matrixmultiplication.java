@@ -31,7 +31,5 @@ public class matrixmultiplication {
             System.out.print(result[i][j] + " ");
         }System.out.println();
     }
-
-        
     }
 }
